@@ -1,5 +1,5 @@
 #NoTrayIcon
-; Version: 2.0 - AutoIt Only - Die bewährte Logik vereint
+; Version: 0.2.0 - AutoIt Only - Die bewährte Logik vereint
 $sourcePath = "C:\look-fax"
 $numberFile = "C:\look-fax\current_number.txt"
 $archivPath = "C:\look-fax\archiv\"
