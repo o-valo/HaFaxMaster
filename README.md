@@ -58,8 +58,9 @@ chmod +x send-fax.sh
     ./send-fax.sh /pfad/zu/dokument.pdf
 
 
-Powerd with AI !
-Lizenz
+Powerd by AI !
 
+----
+Lizenz
 MIT License
 
